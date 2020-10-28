@@ -45,6 +45,6 @@ SELECT contactLastName,contactFirstName FROM customers
 SELECT customerNumber, customerName, creditLimit FROM customers
 	ORDER BY creditLimit DESC LIMIT 5;				#22
 SELECT customerNumber, customerName, creditLimit FROM customers
-	ORDER BY creditLimit ASC LIMIT 5;				#22
+	ORDER BY creditLimit ASC LIMIT 5;				#23
     
 
